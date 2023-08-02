@@ -1,12 +1,12 @@
-<model-viewer src="model.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="1">
+<model-viewer src="model.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="1" min-camera-orbit="auto 0deg auto" max-camera-orbit="auto 60deg auto" camera-orbit="-161.8deg 60deg 406.7m" field-of-view="21.8deg">
     <button class="Hotspot" slot="hotspot-1" data-position="27.61292573508068m 0.8223583113968118m -90.37217010491344m" data-normal="0.4056649680425258m 0.6072866643135129m -0.6831096844943889m" data-visibility-attribute="visible">
-        <div class="HotspotAnnotation">vjezd</div>
+        <div class="HotspotAnnotation">🚙</div>
     </button><button class="Hotspot" slot="hotspot-2" data-position="19.128433639044886m 8.52931866943888m -70.0994605275003m" data-normal="0.27533436211433165m 0.9430392489212319m -0.18672965493775434m" data-visibility-attribute="visible">
-        <div class="HotspotAnnotation">A</div>
+        <div class="HotspotAnnotation">🅰</div>
     </button><button class="Hotspot" slot="hotspot-3" data-position="27.97996776483552m 5.578751678593534m -41.5905577500003m" data-normal="0.22923907850707295m 0.9670711115154033m -0.11055727093950173m" data-visibility-attribute="visible">
-        <div class="HotspotAnnotation">B</div>
-    </button><button class="Hotspot" slot="hotspot-4" data-position="57.584399097084116m 19.112622164117624m -57.1788927221815m" data-normal="0.09694985463895271m 0.056138505617861954m -0.9937047820517316m" data-visibility-attribute="visible">
-        <div class="HotspotAnnotation">komín</div>
+        <div class="HotspotAnnotation">🅱</div>
+    </button><button class="Hotspot" slot="hotspot-5" data-position="57.61377916892309m 21.742282025205895m -56.78984891567343m" data-normal="-0.11173216731626592m 0.9214589962146065m -0.37206080293680466m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">🏭 komín</div>
     </button>
     <div class="progress-bar hide" slot="progress-bar">
         <div class="update-bar"></div>
